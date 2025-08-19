@@ -23,20 +23,20 @@ myResumeHTML +=`
   <img src="../resources/images/Circular professional pic.png"alt="Portrait of Daniel Argones" class="professional-photo">
 
   <nav class="nav-items">
-  <ul>
-  <li class="nav-li">
-  <a href="./index.html">About me</a>
-  </li>
-  <li class="nav-li">
-  <a href="./myResume.html">My Resume</a>
-  </li>
-  <li class="nav-li">
-  <a href="">Portfolio & Sample Works</a>
-  </li>
-  <li class="nav-li">
-  <a href="">Contact Details</a>
-  </li>
-  </ul>
+    <ul>
+      <li class="nav-li">
+      <a href="./index.html">About me</a>
+      </li>
+      <li class="nav-li">
+      <a href="./myResume.html">My Resume</a>
+      </li>
+      <li class="nav-li">
+      <a href="">Portfolio & Sample Works</a>
+      </li>
+      <li class="nav-li">
+      <a href="">Contact Details</a>
+      </li>
+    </ul>
   </nav>
 
   </div>
