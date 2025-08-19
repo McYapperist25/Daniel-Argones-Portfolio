@@ -250,7 +250,7 @@ myResumeHTML +=`
       <br>
       <b>VXI Global Holdings(AT&t Account)</b>
       <br>
-      December 2021 - July 2022
+      April 2021 - December 2021
       <br>
       <ul>
         <li class="content-li">
