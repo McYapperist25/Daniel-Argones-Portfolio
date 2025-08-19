@@ -29,7 +29,6 @@ h2,h4 {
   display: flex;
   border: 5px;
   justify-content: space-around;
-  list-style-type: none;
   padding: 0px;
 }
 
@@ -37,15 +36,27 @@ ul {
   padding-inline-start: 0px;
 }
 
-li {
+.nav-li {
   list-style: none;
   padding: 10px;
   border: white solid 2px;
   text-align: center;
   border-radius: 20px;
   margin-top: 10px;
-  
 }
+
+li {
+  padding: 7px;
+  padding-left: 10px;
+  list-style-position: inside;
+}
+
+li::marker {
+  padding-right: 0px;
+  margin-right: 0px;
+}
+
+
 
 a {
   text-decoration: none;
@@ -75,8 +86,8 @@ a {
 }
 
 
-.content-p-tag {
-  font-size: 17px;
+.content-p-tag, .content-li {
+  font-size: 15px;
   margin-right: 70px;
 }
 
