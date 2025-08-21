@@ -20,7 +20,7 @@ myResumeHTML +=`
   </div>
   <article class="main-article">
   <div class="photo-with-nav">
-  <img src="../resources/images/Circular professional pic.png"alt="Portrait of Daniel Argones" class="professional-photo">
+  <img src="../resources/images/Circular-professional-pic.png"alt="Portrait of Daniel Argones" class="professional-photo">
 
   <nav class="nav-items">
     <ul>
